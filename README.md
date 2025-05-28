@@ -4,6 +4,9 @@
 
 A modern, responsive, and interactive **Login & Signup form** interface crafted entirely with **HTML and CSS**, designed to deliver a smooth user experience without relying on JavaScript.
 
+## 🚀 Live Demo
+👉 [View Live](https://shaqran92.github.io/Modern-Login-Page/)
+
 ## ✨ Features
 
 - 🔄 **Toggle Between Forms** – Switch between login and signup using a creative `checkbox`-based CSS method.
@@ -17,7 +20,3 @@ A modern, responsive, and interactive **Login & Signup form** interface crafted 
 
 - **HTML5**
 - **CSS3 (Flexbox, Transitions, Box Shadows, Gradients)**
-
-## 📸 Preview
-
-![Form UI Preview](link-to-screenshot-or-gif-if-you-have-one)
